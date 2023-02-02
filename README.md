@@ -5,3 +5,5 @@
 ## While also start working on meaningful projects or learn from projects that are already available on Github.
 
 This line is being added from Acer Laptop and then pushed to Github.
+
+New Feature launching soon on this feature-readme branch. Cheers!! :):)
