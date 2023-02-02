@@ -7,3 +7,5 @@
 This line is being added from Acer Laptop and then pushed to Github.
 
 New Feature launching soon on this feature-readme branch. Cheers!! :):)
+
+Feature launch will take place on 5th February..........
